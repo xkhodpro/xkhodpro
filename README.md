@@ -30,6 +30,6 @@ Feel free to reach out to me via:
 
 - He/Him/His
 
-## ⚡ Fun fact
+## ⚡ Fun fact 
 
 - I love combining aesthetics with code. Building tools and libraries with a great design touch is my thing!
